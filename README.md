@@ -35,4 +35,4 @@ to analyze the data.
 
 We generate the following figure. 
 
-![first_affiliations](\\first_affiliations.png)
+![first_affiliations](https://github.com/SGEthan/NeurIPS2022_Paper_Retrieving/blob/main/first_affiliations.png)
